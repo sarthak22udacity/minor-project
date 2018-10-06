@@ -65,7 +65,7 @@ html, body {
 .container {
   position: relative;
   width: 100%;
-  height: 100%;
+  height: 101%;
   background: var(--container-bg-color);
 }
 
@@ -163,7 +163,7 @@ html, body {
 
 }
 .uncover{
-  transform: translate(0,-100vh);
+  transform: translate(0,-101vh);
   transition: var(--speed) all ease-in-out; 
 }
 
